@@ -1,0 +1,78 @@
+body {
+    font-family: "Roboto","Raleway","Montserrat", sans-serif;
+   color: #2E2F42;
+}
+header{
+    background-color: #E7E9FC;   
+}
+a{
+color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+} 
+.address{
+    color: #434455;
+    line-height: 1.5;
+    
+}
+.address:hover{
+    color:#4D5AE5;
+}
+.address:focus{
+    color: rgb(57, 179, 179);
+}
+.grey{
+    color: #FFFFFF;
+    background-color: #2E2F42;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.071;
+}
+button{
+   background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    line-height: 1.5;
+}
+button:hover{
+    background-color: rgb(29, 56, 56);
+}
+button:focus{
+ background-color:rgb(101, 109, 106);
+}
+.team{
+    background-color: #F4F4FD;
+}
+.table-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+
+}
+.table-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.table-subname{
+    color: #434455;
+    line-height: 1.5;
+}
+
+footer{
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    line-height: 1.5;
+}
+.low-link{
+    color: #F4F4FD;
+}
+.portfolio{
+    background-color: #E7E9FC;
+}
+.characteristics{
+    background-color: #E7E9FC;
+}
