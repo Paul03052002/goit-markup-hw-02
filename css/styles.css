@@ -61,17 +61,22 @@ button:focus{
 .table-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.111;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 
 }
 .table-name{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .table-subname{
     color: #434455;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 footer{
