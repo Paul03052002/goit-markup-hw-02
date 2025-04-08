@@ -77,7 +77,9 @@ font-family: "Roboto", sans-serif;
 .btn:focus{
  background-color:#404BBF;
 }
-
+.team{
+    background-color: #F4F4FD;
+}
 .table-title{
    color: #2e2f42;
     font-weight: 700;
@@ -99,7 +101,7 @@ font-family: "Roboto", sans-serif;
 .first-list-photos{
     background-color: #FFFFFF;
 }
-.table-subname{
+.table-subname {
 color: #434455;
     font-size: 16px;
     font-weight: 500;
