@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto",sans-serif;
    color: #434455;
    background-color: #FFFFFF;
 }
@@ -73,7 +73,7 @@ font-family: "Roboto", sans-serif;
     background-color:#404BBF;
 }
 .btn:focus{
-     background-color:#404BBF;
+ background-color:#404BBF;
 }
 .team{
     background-color: #F4F4FD;
