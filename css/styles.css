@@ -97,11 +97,8 @@ font-family: "Roboto", sans-serif;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.table-subname-one{
-        color: #434455;
-            background-color: #FFFFFF;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
+.first-list-photos{
+    background-color: #FFFFFF;
 }
 .table-subname{
     color: #434455;
@@ -109,7 +106,9 @@ font-family: "Roboto", sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.third-list{
+    background-color: #FFFFFF;
+}
 .footer{
     background-color: #2E2F42;
 }
