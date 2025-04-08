@@ -103,13 +103,11 @@ font-family: "Roboto", sans-serif;
 }
 .table-subname {
 color: #434455;
+background-color:#FFFFFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-.portfolio{
-    background-color:#FFFFFF;
 }
 
 .footer{
