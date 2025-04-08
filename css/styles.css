@@ -6,9 +6,6 @@ body {
 header{
     background-color: #E7E9FC;   
 }
-.adr{
-    font-style: normal;
-}
 .logo{
     font-family: "Raleway",sans-serif;
     font-size: 18px;
@@ -33,6 +30,9 @@ letter-spacing: 0.02em;
 }
 .first-link:focus{
     color: #404bbf;
+}
+.adr{
+    font-style: normal;
 }
 .address{
     color: #434455;
