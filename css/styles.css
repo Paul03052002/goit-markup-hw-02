@@ -69,11 +69,8 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.04em
     
 }
-.btn :hover{
+.btn :hover,focus{
     background-color: #404BBF;
-}
-.btn :focus{
- background-color: #404BBF;
 }
 .team{
     background-color: #F4F4FD;
