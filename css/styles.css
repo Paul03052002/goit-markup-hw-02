@@ -37,13 +37,14 @@ letter-spacing: 0.02em;
 .address{
     color: #434455;
     line-height: 1.5;
+    etter-spacing: 0.02em;
     
 }
 .address:hover{
-    color:#4D5AE5;
+    color:#404bbf;
 }
 .address:focus{
-    color: rgb(57, 179, 179);
+    color: #404bbf;
 }
 
 .grey {
