@@ -113,6 +113,12 @@ font-family: "Roboto", sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.table-subname-one{
+    color: #434455;
+        background-color: #FFFFFF;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
 
 .footer{
     background-color: #2E2F42;
