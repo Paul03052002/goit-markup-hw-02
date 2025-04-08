@@ -6,6 +6,9 @@ body {
 header{
     background-color: #E7E9FC;   
 }
+.adr{
+    font-style: normal;
+}
 .logo{
     font-family: "Raleway",sans-serif;
     font-size: 18px;
@@ -18,12 +21,19 @@ header{
 .webstudio{
     color: #2e2f42;
 }
-a{
+.first-link{
 color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
+letter-spacing: 0.02em;
 } 
+.first-link :hover{
+    color: #404bbf;
+}
+.first-link :focus{
+    color: #404bbf;
+}
 .address{
     color: #434455;
     line-height: 1.5;
@@ -59,10 +69,10 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.04em
     
 }
-.btn :hover{
+button :hover{
     background-color: #404BBF;
 }
-.btn :focus{
+button :focus{
  background-color: #404BBF;
 }
 .team{
